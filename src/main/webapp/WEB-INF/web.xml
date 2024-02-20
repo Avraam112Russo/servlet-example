@@ -5,7 +5,7 @@
          version="5.0">
     <servlet>
         <servlet-name>Myseevlet</servlet-name>
-        <servlet-class>com.n1nt3nd0.demonew.MYServlet</servlet-class>
+        <servlet-class>com.n1nt3nd0.demonew.servlet.MYServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>Myseevlet</servlet-name>

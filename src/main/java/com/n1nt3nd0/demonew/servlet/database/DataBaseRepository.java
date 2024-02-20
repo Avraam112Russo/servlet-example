@@ -1,5 +1,6 @@
-package com.n1nt3nd0.demonew;
+package com.n1nt3nd0.demonew.servlet.database;
 
+import com.n1nt3nd0.demonew.servlet.model.Person;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.hibernate.boot.MetadataSources;

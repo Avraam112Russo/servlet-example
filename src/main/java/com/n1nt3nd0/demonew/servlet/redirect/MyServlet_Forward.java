@@ -1,4 +1,4 @@
-package com.n1nt3nd0.demonew;
+package com.n1nt3nd0.demonew.servlet.redirect;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

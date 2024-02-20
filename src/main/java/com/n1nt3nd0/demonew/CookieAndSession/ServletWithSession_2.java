@@ -1,13 +1,12 @@
 package com.n1nt3nd0.demonew.CookieAndSession;
 
-import com.n1nt3nd0.demonew.Basket;
-import com.n1nt3nd0.demonew.Product;
+import com.n1nt3nd0.demonew.servlet.model.Basket;
+import com.n1nt3nd0.demonew.servlet.model.Product;
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
-import org.hibernate.Session;
 
 import java.io.IOException;
 import java.io.PrintWriter;

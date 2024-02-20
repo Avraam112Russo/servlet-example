@@ -1,4 +1,4 @@
-package com.n1nt3nd0.demonew;
+package com.n1nt3nd0.demonew.servlet.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

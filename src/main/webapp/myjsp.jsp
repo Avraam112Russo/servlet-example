@@ -1,6 +1,6 @@
 <%@ page import="java.util.Date" %>
 <%@ page import="org.hibernate.SessionFactory" %>
-<%@ page import="com.n1nt3nd0.demonew.DataBaseRepository" %><%--
+<%@ page import="com.n1nt3nd0.demonew.servlet.database.DataBaseRepository" %><%--
   Created by IntelliJ IDEA.
   User: user
   Date: 19.02.2024
@@ -14,6 +14,7 @@
 </head>
 <body>
 <h1>hello, bro</h1>
+<br/>
 <h2>
   <%=
   new DataBaseRepository().getPersonList()

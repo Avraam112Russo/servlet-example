@@ -17,6 +17,6 @@
         <property name="hbm2ddl.auto">validate</property>
 
         <!-- Names the annotated entity class -->
-        <mapping class="com.n1nt3nd0.demonew.Person"/>
+        <mapping class="com.n1nt3nd0.demonew.servlet.model.Person"/>
     </session-factory>
 </hibernate-configuration>

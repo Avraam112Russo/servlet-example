@@ -1,4 +1,4 @@
-package com.n1nt3nd0.demonew;
+package com.n1nt3nd0.demonew.servlet;
 
 import jakarta.servlet.annotation.WebServlet;
 import jakarta.servlet.http.HttpServlet;
